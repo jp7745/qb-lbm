@@ -1,4 +1,4 @@
-# Quantum Benchmarking (QB) Lattice Boltzmann Method (LBM) Analysis of Matrices
+# Quantum Benchmarking (QB): Analysis of Matrices 
 
 This work is supplemental material for the white paper ``Feasibility of accelerating incompressible computational fluid
 dynamics simulations with error-corrected quantum computers''.  This includes Python analysis of $F$-matrices (collision matrices) of LBM and the Carleman linearized $A$-matrix.
