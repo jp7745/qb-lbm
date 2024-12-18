@@ -1,0 +1,6 @@
+loading A matrix...
+done.
+A 1 norm: 9.000000000000002
+A inf norm: 8205.740740740743
+A spec bound (sqrt[(1-norm)x(inf-norm)]):  271.756631320501
+A spec norm: 124.51226071785938

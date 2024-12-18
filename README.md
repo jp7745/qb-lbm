@@ -1,7 +1,7 @@
 # Quantum Benchmarking (QB): Analysis of Matrices 
 
 This work is supplemental material for the white paper ``Feasibility of accelerating incompressible computational fluid
-dynamics simulations with error-corrected quantum computers''.  This includes Python analysis of $F$-matrices (collision matrices) of LBM and the Carleman linearized $A$-matrix.
+dynamics simulations with fault-tolerant quantum computers'' (https://arxiv.org/abs/2406.06323).  This includes Python analysis of $F$-matrices (collision matrices) of lattice Boltzmann method (LBM) and the Carleman-linearized $A$-matrix.
 
 In `example_A_norm.ipynb` we establish an upper bound on the spectral norm of the $A$-matrix.  This should be run first to save various matrices in `.npz` format.
 
